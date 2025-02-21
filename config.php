@@ -1,8 +1,8 @@
 <?php
-$host = 'ls-905eb9a6e3d4b303df39f7aa4b125223fc73fe4b.cfuk4ggcq2x9.us-east-1.rds.amazonaws.com';
+$host = 'ls-1c5a6462c08cec0810da27c9dd5d93f5ec95b9d2.c2hse4gikgl1.us-east-1.rds.amazonaws.co';m
 $db = 'registroCivil';
 $user = 'dbmasteruser'; 
-$pass = 'Antonio123lol'; 
+$pass = '~ykgKzG1Cmt%c](*a&5t`<4gQuYc%$<B'; 
 
 $dsn = "mysql:host=$host;dbname=$db;charset=utf8mb4";
 $options = [
