@@ -1,5 +1,5 @@
 <?php
-$host = 'ls-1c5a6462c08cec0810da27c9dd5d93f5ec95b9d2.c2hse4gikgl1.us-east-1.rds.amazonaws.co';m
+$host = 'ls-1c5a6462c08cec0810da27c9dd5d93f5ec95b9d2.c2hse4gikgl1.us-east-1.rds.amazonaws.com';
 $db = 'registroCivil';
 $user = 'dbmasteruser'; 
 $pass = '~ykgKzG1Cmt%c](*a&5t`<4gQuYc%$<B'; 
